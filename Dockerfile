@@ -1,4 +1,4 @@
-FROM ruby:2.2
+FROM ruby:2.6.9
 
 RUN gem install mailcatcher
 
